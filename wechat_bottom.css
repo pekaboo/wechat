@@ -1,0 +1,60 @@
+.bottom{
+    width: 100%;
+    height: 12rem;
+    background-color: #F6F6F6;
+    position: fixed;
+    bottom: 0;
+    display: flex;
+}
+
+.button_item{
+    height: 10rem;
+    flex: 1;
+}
+
+.button_item_img_wrap{
+    width: 10rem;
+    height: 4rem;
+}
+
+.button_item_img{
+    width: 3rem;
+    height: 3rem;
+    margin-left: 3.5rem;
+    margin-top: 2rem;
+}
+
+.button_item_img_me{
+    width: 2.5rem;
+    height: 2.5rem;
+    margin-left: 3.75rem;
+    margin-top: 2rem;
+}
+
+.button_item_text_focus{
+    font-size: 1.1rem;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 1.2rem;
+    color: #7AAB93;
+}
+
+.button_item_text{
+    font-size: 1.1rem;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 1.2rem;
+}
+
+
+.button_red_point{
+    display: block;
+    background: #f00;
+    border-radius: 50%;
+    width: 1rem;
+    height: 1rem;
+    top: 2rem;
+    right: 3rem;
+    position: relative;
+    float: right;
+}
